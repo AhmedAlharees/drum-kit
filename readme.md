@@ -17,7 +17,7 @@ The Drum Kit Website is a fun and interactive project from Wes bos's JavaScript3
 
 ## Usage
 
-1. Open the [Drum Kit Website](https:/ahmedalharees.github.io/drum-kit) in your web browser.
+1. Open the [Drum Kit Website](https://ahmedalharees.github.io/drum-kit/) in your web browser.
 2. Use your computer keyboard to play the drums:
    - Press the corresponding keys (A, S, D, F, G, H, J, K, L) to play different drum sounds.
    - Each drum sound is associated with a specific key, and pressing the key will trigger the corresponding sound.
